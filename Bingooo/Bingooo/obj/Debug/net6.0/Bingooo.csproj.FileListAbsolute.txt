@@ -1,0 +1,15 @@
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\bin\Debug\net6.0\Bingooo.exe
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\bin\Debug\net6.0\Bingooo.deps.json
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\bin\Debug\net6.0\Bingooo.runtimeconfig.json
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\bin\Debug\net6.0\Bingooo.dll
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\bin\Debug\net6.0\Bingooo.pdb
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\obj\Debug\net6.0\Bingooo.csproj.AssemblyReference.cache
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\obj\Debug\net6.0\Bingooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\obj\Debug\net6.0\Bingooo.AssemblyInfoInputs.cache
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\obj\Debug\net6.0\Bingooo.AssemblyInfo.cs
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\obj\Debug\net6.0\Bingooo.csproj.CoreCompileInputs.cache
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\obj\Debug\net6.0\Bingooo.dll
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\obj\Debug\net6.0\refint\Bingooo.dll
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\obj\Debug\net6.0\Bingooo.pdb
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\obj\Debug\net6.0\Bingooo.genruntimeconfig.cache
+C:\Users\NovPro2020\Desktop\C#Net\Bingooo\Bingooo\obj\Debug\net6.0\ref\Bingooo.dll
